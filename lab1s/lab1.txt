@@ -1,0 +1,17 @@
+ http://localhost:5000/.
+
+Выполнение запросов к API:
+Пример запроса к API "number_to_words":
+http://localhost:5000/number_to_words/123. Вместо "123" можно указать любое другое число.
+
+Пример запроса к API "solve_equation":XXXXXXX
+В веб-браузере введите http://localhost:5000/solve_equation?a=1&b=4&c=-1. 
+
+Пример запроса к API "day_of_week":XXXXXXXXX
+Введите в браузере http://localhost:5000/day_of_week?date=12.12.2028
+
+Пример запроса к API "fibonacci":
+Введите в браузере http://localhost:5000/fibonacci/10
+
+Пример запроса к API "region_name":
+Введите в браузере http://localhost:5000/region/72
